@@ -1,0 +1,46 @@
+select{
+    width: 20vw;
+    height: 3vh;
+    margin-left: 2vw;
+}
+
+h2, button , input{
+    margin-left: 2vw;
+}
+
+h2{
+    margin-bottom: 2vh;
+}
+
+input{
+    width: 30vw;
+}
+
+#resultados{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5vh;
+}
+
+hr{
+    width: 120vw;
+    display: flex;
+    justify-self: center;
+
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h3{
+    font-size: 70px;
+}
+
+p{
+    font-size: 30px;
+}
